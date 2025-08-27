@@ -34,9 +34,9 @@ I'm passionate on the combination of **AI, ML, big data, and scalable systems** 
 |---------------------|--------------------------------------------------------------------------------------|
 | **Languages**        |  Python, Scala, Bash, SQL, Java                               |
 | **Distributed Systems** | Apache Spark, Kafka, Databricks, Data modelling                        |
-| **Data Infra**       | MySQL, Elasticsearch, TrinoDB, Snowflake, Airflow, Nifi                       |
+| **Data Infra and Tools**       | MySQL, Elasticsearch, TrinoDB, Snowflake, Airflow, Nifi                       |
 | **Cloud Platforms**  | GCP, AWS, On-Prem                                                            |
-| **AI/ML**            | Model training , Algorithms                                    |
+| **Data Science**            | Model training , Algorithms                                    |
 
 
 </p>
