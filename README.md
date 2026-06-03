@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 
 
-I bring 6+ years of hands-on experience as a Lead Data Engineer, specialising in building scalable data pipelines, robust ETL workflows, and efficient data warehouse solutions. I've designed and implemented multi-terabyte data systems using a modern tech stack that includes Python, Scala, SQL, Spark, NiFi, Airflow, and Kafka. My ability to architect end-to-end data solutions, combined with a deep understanding of distributed systems and data engineering best practices, allows me to deliver reliable, high-performance systems that directly support business goals. Additionally, I am pursuing a Master's degree in AI & ML from the prestigious BITS Pilani.
+I bring 6+ years of hands-on experience as a Sr. Lead Data Engineer, specialising in building scalable data pipelines, robust ETL workflows, and efficient data warehouse solutions. I've designed and implemented multi-terabyte data systems using a modern tech stack that includes Python, Scala, SQL, Spark, NiFi, Airflow, and Kafka. My ability to architect end-to-end data solutions, combined with a deep understanding of distributed systems and data engineering best practices, allows me to deliver reliable, high-performance systems that directly support business goals. Additionally, I am pursuing a Master's degree in AI & ML from the prestigious BITS Pilani.
 
 I'm passionate on the combination of **AI, ML, Big Data, and Scalable Systems** — and I thrive on solving complex problems.
 
